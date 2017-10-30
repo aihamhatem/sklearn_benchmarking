@@ -1,5 +1,5 @@
 # sklearn_benchmarking
-A tool to benchmarking several sklearn methods against your data with very little code.
+A tool to benchmark several sklearn methods against your data with very little code.
 
 The sklearn_benchmarking file contains two methods that can be used to quickly benchmark sklearn algorithms against a dataset.
 
