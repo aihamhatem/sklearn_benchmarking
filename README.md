@@ -5,7 +5,7 @@ The sklearn_benchmarking file contains two methods that can be used to quickly b
 
 Methods:
 - get_regression_params : returns a list with all sklearn regression methods that are currently available for use 
-- get_classification_params: returns a list with all sklearn classification methods that are currently available for use 
+- get_classification_params : returns a list with all sklearn classification methods that are currently available for use 
 - classification_methods : executes the classification methods selected by the user, and returns a dictionary
 - regression_methods : executes the regressions methods selected by the user, and returns a dictionary
 
